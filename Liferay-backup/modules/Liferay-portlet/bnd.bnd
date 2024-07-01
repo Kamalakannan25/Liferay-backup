@@ -1,0 +1,4 @@
+Bundle-Name: Liferay-portlet
+Bundle-SymbolicName: com.demo.liferay
+Bundle-Version: 1.0.0
+Export-Package: com.demo.liferay.constants
